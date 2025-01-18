@@ -16,7 +16,7 @@ URL: `https://nirzhuk.github.io/maptiler-duck/`
 
 - I decided to use biome due I recently used in my projects due not need to have prettier and eslint files around my project.
 - Decided to use `three.js` library due I'm more familiar how it's working and how to use it. (gltf loader mostly)
-- Using plain `ts` instead of react due I want to keep it simple and easy to understand. 
+- Using plain `ts` instead of react due I want to keep it simple and easy to understand. Total TS lines: 168. That's mostly my decision behind this.
 
 ## Run the application
 
