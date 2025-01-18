@@ -34,4 +34,4 @@ pnpm run build
 # Credits
 
 Duck model: https://sketchfab.com/3d-models/rubber-duck-f1de4fc390db4266a509b9739350512a
-
+Favicon: https://uxwing.com/duck-color-icon/
